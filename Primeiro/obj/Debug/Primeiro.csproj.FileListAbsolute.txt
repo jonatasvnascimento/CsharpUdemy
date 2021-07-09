@@ -1,0 +1,10 @@
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\bin\Debug\Primeiro.exe
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\bin\Debug\Primeiro.pdb
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\obj\Debug\Primeiro.Form1.resources
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\obj\Debug\Primeiro.Properties.Resources.resources
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\obj\Debug\Primeiro.csproj.GenerateResource.cache
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\obj\Debug\Primeiro.exe
+C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Primeiro\obj\Debug\Primeiro.pdb

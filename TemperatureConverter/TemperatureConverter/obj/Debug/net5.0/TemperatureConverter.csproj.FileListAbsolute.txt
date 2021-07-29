@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.exe
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.deps.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.runtimeconfig.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\ref\TemperatureConverter.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\ref\TemperatureConverter.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.genruntimeconfig.cache

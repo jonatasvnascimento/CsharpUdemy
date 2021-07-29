@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\bin\Debug\net5.0\InverterNomes.exe
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\bin\Debug\net5.0\InverterNomes.deps.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\bin\Debug\net5.0\InverterNomes.runtimeconfig.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\bin\Debug\net5.0\InverterNomes.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\bin\Debug\net5.0\InverterNomes.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\bin\Debug\net5.0\ref\InverterNomes.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\bin\Debug\net5.0\InverterNomes.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\ref\InverterNomes.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\InverterNomes\InverterNomes\obj\Debug\net5.0\InverterNomes.genruntimeconfig.cache

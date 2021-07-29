@@ -13,7 +13,7 @@ namespace TemperatureConverter
             Console.WriteLine("---------------------------------------");
 
             Console.Write("Informe a temperatura em Celsius: ");
-            Celsius = Convert.ToDouble(Console.ReadLine());
+            Celsius = Convert.ToDouble(Console.ReadLine());//convert options double.Parce()
 
             Fahrenheit = (Celsius * 1.8) + 32;
             Kelvin = Celsius + 273.15;

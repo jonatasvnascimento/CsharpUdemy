@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Primeiro"
+    "\\InverterNomes",
+    "\\InverterNomes\\InverterNomes"
   ],
+  "SelectedNode": "\\InverterNomes\\InverterNomes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

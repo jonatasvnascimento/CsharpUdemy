@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\bin\Debug\net5.0\MultiplyMatrices.exe
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\bin\Debug\net5.0\MultiplyMatrices.deps.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\bin\Debug\net5.0\MultiplyMatrices.runtimeconfig.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\bin\Debug\net5.0\MultiplyMatrices.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\bin\Debug\net5.0\MultiplyMatrices.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\bin\Debug\net5.0\ref\MultiplyMatrices.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\bin\Debug\net5.0\MultiplyMatrices.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\ref\MultiplyMatrices.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\MultiplyMatrices\MultiplyMatrices\obj\Debug\net5.0\MultiplyMatrices.genruntimeconfig.cache

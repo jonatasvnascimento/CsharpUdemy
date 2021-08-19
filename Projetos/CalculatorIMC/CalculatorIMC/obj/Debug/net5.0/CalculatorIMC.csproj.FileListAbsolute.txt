@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\bin\Debug\net5.0\CalculatorIMC.exe
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\bin\Debug\net5.0\CalculatorIMC.deps.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\bin\Debug\net5.0\CalculatorIMC.runtimeconfig.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\bin\Debug\net5.0\CalculatorIMC.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\bin\Debug\net5.0\CalculatorIMC.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\bin\Debug\net5.0\ref\CalculatorIMC.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\bin\Debug\net5.0\CalculatorIMC.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\ref\CalculatorIMC.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpUdemy\Projetos\CalculatorIMC\CalculatorIMC\obj\Debug\net5.0\CalculatorIMC.genruntimeconfig.cache

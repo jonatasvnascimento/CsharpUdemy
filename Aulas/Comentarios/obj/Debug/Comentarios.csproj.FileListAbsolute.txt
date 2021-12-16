@@ -1,7 +1,0 @@
-C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Comentarios\obj\Debug\Comentarios.csproj.AssemblyReference.cache
-C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Comentarios\obj\Debug\Comentarios.csproj.CoreCompileInputs.cache
-C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Comentarios\bin\Debug\Varieaveis.exe.config
-C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Comentarios\bin\Debug\Varieaveis.exe
-C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Comentarios\bin\Debug\Varieaveis.pdb
-C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Comentarios\obj\Debug\Varieaveis.exe
-C:\Users\Kodo\Documents\GitHub\CsharpUdemy\Comentarios\obj\Debug\Varieaveis.pdb

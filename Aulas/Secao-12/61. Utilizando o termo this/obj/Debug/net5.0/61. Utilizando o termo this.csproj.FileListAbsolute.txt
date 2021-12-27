@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\bin\Debug\net5.0\61. Utilizando o termo this.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\bin\Debug\net5.0\61. Utilizando o termo this.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\bin\Debug\net5.0\61. Utilizando o termo this.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\bin\Debug\net5.0\61. Utilizando o termo this.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\bin\Debug\net5.0\61. Utilizando o termo this.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\bin\Debug\net5.0\ref\61. Utilizando o termo this.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\bin\Debug\net5.0\61. Utilizando o termo this.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\ref\61. Utilizando o termo this.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\61. Utilizando o termo this\obj\Debug\net5.0\61. Utilizando o termo this.genruntimeconfig.cache

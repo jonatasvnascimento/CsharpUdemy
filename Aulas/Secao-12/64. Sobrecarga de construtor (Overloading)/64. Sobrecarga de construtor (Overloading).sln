@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. Sobrecarga de construtor (Overloading)", "64. Sobrecarga de construtor (Overloading).csproj", "{1DFCED90-E7DE-4998-98C8-7A1D8566CE22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFCED90-E7DE-4998-98C8-7A1D8566CE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFCED90-E7DE-4998-98C8-7A1D8566CE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFCED90-E7DE-4998-98C8-7A1D8566CE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFCED90-E7DE-4998-98C8-7A1D8566CE22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50382E25-FDF4-4FDF-AF85-ACA9B85B42DF}
+	EndGlobalSection
+EndGlobal

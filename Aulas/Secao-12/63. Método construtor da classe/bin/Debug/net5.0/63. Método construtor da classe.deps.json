@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "63. Método construtor da classe/1.0.0": {
+        "runtime": {
+          "63. Método construtor da classe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "63. Método construtor da classe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

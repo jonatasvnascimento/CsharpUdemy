@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\bin\Debug\net5.0\63. Método construtor da classe.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\bin\Debug\net5.0\63. Método construtor da classe.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\bin\Debug\net5.0\63. Método construtor da classe.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\bin\Debug\net5.0\63. Método construtor da classe.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\bin\Debug\net5.0\63. Método construtor da classe.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\bin\Debug\net5.0\ref\63. Método construtor da classe.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\bin\Debug\net5.0\63. Método construtor da classe.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\ref\63. Método construtor da classe.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\63. Método construtor da classe\obj\Debug\net5.0\63. Método construtor da classe.genruntimeconfig.cache

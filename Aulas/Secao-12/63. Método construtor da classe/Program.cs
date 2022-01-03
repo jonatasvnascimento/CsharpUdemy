@@ -6,7 +6,13 @@ namespace _63._Método_construtor_da_classe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pessoa p1 = new Pessoa();
+
+            Console.WriteLine(
+                $"{p1.nome}\n" +
+                $"{p1.sobrenome}\n" +
+                $"{p1.idade}\n" +
+                $"{p1.anoNascimento}\n");
         }
     }
 }

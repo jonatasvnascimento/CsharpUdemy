@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\bin\Debug\net5.0\65. Classes estáticas.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\bin\Debug\net5.0\65. Classes estáticas.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\bin\Debug\net5.0\65. Classes estáticas.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\bin\Debug\net5.0\65. Classes estáticas.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\bin\Debug\net5.0\65. Classes estáticas.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\bin\Debug\net5.0\ref\65. Classes estáticas.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\bin\Debug\net5.0\65. Classes estáticas.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\ref\65. Classes estáticas.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\65. Classes estáticas\obj\Debug\net5.0\65. Classes estáticas.genruntimeconfig.cache

@@ -6,7 +6,16 @@ namespace _66._Membros_estáticos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pessoa.maioridade = 18;
+            Pessoa p1 = new Pessoa();
+            p1.nome = "P1";
+            p1.idade = 24;
+
+            Console.WriteLine(
+                $"{p1.nome}\n" +
+                $"{p1.idade}" );
+
+            
         }
     }
 }

@@ -6,7 +6,12 @@ namespace _68._Propriedades_da_classe__get___set_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Teste t = new Teste();
+            t.Nome = "Angimundoi";
+            t.idade = 20;
+
+            Console.WriteLine($"{t.Nome}" +
+                $"{t.idade}");
         }
     }
 }

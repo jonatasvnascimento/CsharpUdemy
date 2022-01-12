@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\bin\Debug\net5.0\69. Encapsulamento.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\bin\Debug\net5.0\69. Encapsulamento.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\bin\Debug\net5.0\69. Encapsulamento.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\bin\Debug\net5.0\69. Encapsulamento.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\bin\Debug\net5.0\69. Encapsulamento.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\bin\Debug\net5.0\ref\69. Encapsulamento.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\bin\Debug\net5.0\69. Encapsulamento.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\ref\69. Encapsulamento.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-12\69. Encapsulamento\obj\Debug\net5.0\69. Encapsulamento.genruntimeconfig.cache

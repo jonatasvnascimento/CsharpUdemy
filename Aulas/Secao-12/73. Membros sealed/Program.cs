@@ -6,7 +6,17 @@ namespace _73._Membros_sealed
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Humano humano = new Humano();
+            Pessoa pessoa = new Pessoa();
+            Homem homem = new Homem();
+
+            humano.Olho();
+            humano.Cabelos();
+            pessoa.Olho();
+            pessoa.Cabelos();
+            homem.Olho();
+            homem.Cabelos();
+
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _75._Polimorfismo
 {
-    public class Forma
+    abstract public class Forma
     {
         public int X { get; private set; }
         public int Y { get; private set; }
@@ -18,7 +18,11 @@ namespace _75._Polimorfismo
         {
             Console.WriteLine("Desenhar");
         }
-        public virtual void Area() { }
+        public virtual void Area()
+        {
+            int area = Largura * Altura;
+            Console.WriteLine($"Area do Retangulo: {area}");
+        }
     }
     public class Circulo : Forma
     {
@@ -27,7 +31,8 @@ namespace _75._Polimorfismo
             base.Desenhar();
             Console.WriteLine("Circulo");
         }
-        public override void Area() {
+        public override void Area()
+        {
             double area = Math.PI * (Raio * Raio);
             Console.WriteLine($"Area Circulo: {area}");
         }
@@ -41,8 +46,7 @@ namespace _75._Polimorfismo
         }
         public override void Area()
         {
-            int area = Largura * Altura;
-            Console.WriteLine($"Area do Retangulo: {area}");
+            base.Area();
         }
     }
     public class Triangulo : Forma

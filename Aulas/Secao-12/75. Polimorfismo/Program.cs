@@ -6,7 +6,14 @@ namespace _75._Polimorfismo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Forma b = new Triangulo();
+            Forma c = new Circulo();
+            Forma d = new Retangulo();
+
+            b.Desenhar();
+            c.Desenhar();
+            d.Desenhar();
+
         }
     }
 }

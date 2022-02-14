@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\bin\Debug\net5.0\81_FatorialRecursividade.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\bin\Debug\net5.0\81_FatorialRecursividade.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\bin\Debug\net5.0\81_FatorialRecursividade.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\bin\Debug\net5.0\81_FatorialRecursividade.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\bin\Debug\net5.0\81_FatorialRecursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\bin\Debug\net5.0\ref\81_FatorialRecursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\bin\Debug\net5.0\81_FatorialRecursividade.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\ref\81_FatorialRecursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\81_FatorialRecursividade\obj\Debug\net5.0\81_FatorialRecursividade.genruntimeconfig.cache

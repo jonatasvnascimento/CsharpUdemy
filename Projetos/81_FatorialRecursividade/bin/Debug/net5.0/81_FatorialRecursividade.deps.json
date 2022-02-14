@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "81_FatorialRecursividade/1.0.0": {
+        "runtime": {
+          "81_FatorialRecursividade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "81_FatorialRecursividade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

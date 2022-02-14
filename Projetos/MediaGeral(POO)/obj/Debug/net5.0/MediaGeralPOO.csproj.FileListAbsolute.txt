@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\bin\Debug\net5.0\MediaGeralPOO.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\bin\Debug\net5.0\MediaGeralPOO.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\bin\Debug\net5.0\MediaGeralPOO.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\bin\Debug\net5.0\MediaGeralPOO.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\bin\Debug\net5.0\MediaGeralPOO.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\bin\Debug\net5.0\ref\MediaGeralPOO.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\bin\Debug\net5.0\MediaGeralPOO.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\ref\MediaGeralPOO.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Projetos\MediaGeral(POO)\obj\Debug\net5.0\MediaGeralPOO.genruntimeconfig.cache

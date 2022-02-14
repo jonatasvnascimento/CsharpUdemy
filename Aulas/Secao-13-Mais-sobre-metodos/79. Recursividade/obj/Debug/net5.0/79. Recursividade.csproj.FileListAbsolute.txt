@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\bin\Debug\net5.0\79. Recursividade.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\bin\Debug\net5.0\79. Recursividade.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\bin\Debug\net5.0\79. Recursividade.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\bin\Debug\net5.0\79. Recursividade.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\bin\Debug\net5.0\79. Recursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\bin\Debug\net5.0\ref\79. Recursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\bin\Debug\net5.0\79. Recursividade.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\ref\79. Recursividade.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Secao-13-Mais-sobre-metodos\79. Recursividade\obj\Debug\net5.0\79. Recursividade.genruntimeconfig.cache

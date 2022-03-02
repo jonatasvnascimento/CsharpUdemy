@@ -7,7 +7,6 @@ namespace _81_FatorialRecursividade
         static void Main(string[] args)
         {
             Console.Write("Fatorial: ");
-            
             int num = int.Parse(Console.ReadLine());
             Console.WriteLine($"Fatorial de {num}! = {fat(num)}");
 

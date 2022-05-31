@@ -1,0 +1,15 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\bin\Debug\net6.0-windows\Secao17.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\bin\Debug\net6.0-windows\Secao17.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\bin\Debug\net6.0-windows\Secao17.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\bin\Debug\net6.0-windows\Secao17.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\bin\Debug\net6.0-windows\ref\Secao17.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\bin\Debug\net6.0-windows\Secao17.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\ref\Secao17.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpUdemy\Aulas\Seção_17_Coleções_avançadas\Secao17\obj\Debug\net6.0-windows\Secao17.genruntimeconfig.cache
